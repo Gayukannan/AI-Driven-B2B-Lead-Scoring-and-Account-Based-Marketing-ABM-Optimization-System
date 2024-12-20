@@ -1,0 +1,171 @@
+				Types of Machine Learning Systems
+1.What is the key distinction between supervised and unsupervised learning?
+
+
+I.Supervised learning uses labeled data, while unsupervised learning works with unlabeled data to find patterns
+
+
+II.Unsupervised learning uses labeled data, while supervised learning works with unlabeled data to find patterns
+
+
+ANS:I
+2.Select the correct example of a real-world application for each type of machine learning.
+
+
+III.Supervised learning in email spam filtering, reinforcement learning in customer segmentation, and unsupervised learning in training self-driving cars.
+
+
+II.Supervised learning in email spam filtering, unsupervised learning in customer segmentation, and reinforcement learning in training self-driving cars.
+
+ANS: 
+3.Select the correct machine learning type for Supervised learning
+
+
+I.Involves agents interacting with an environment to maximize rewards through learned actions.
+
+
+II.Trains models on unlabeled data to discover hidden patterns and groupings.
+
+
+III.Uses labeled data to make predictions based on previously known outcomes.
+
+ANS:III
+
+
+				Pipeline of Machine Learning
+
+
+1.Why is data gathering a critical first step in the machine learning workflow?
+
+
+I.Data gathering is an optional step in the machine learning workflow and doesn't significantly impact the model's performance.
+
+
+II.Models can learn effectively without a representative dataset.
+
+
+III.Data gathering provides the foundation for testing models only, ensuring they are representative of real-world scenarios.
+
+
+IV.Data gathering provides the foundation for training and testing models, ensuring they are representative of real-world scenarios.
+
+ANS:III
+
+2.What is the purpose of the training and testing phases in the workflow?
+
+
+I.The purpose of the training and testing phases in the workflow is to ensure that the model can learn patterns from the data and memorize the learned patterns.
+
+
+II.The purpose of the training and testing phases in the workflow is to ensure that the model can learn patterns from the data and generalize its knowledge to make accurate predictions on new, unseen data.
+
+
+III.The training and testing phases in the workflow are irrelevant and can be skipped since models inherently understand all types of data without any need for learning or evaluation.
+
+ANS:II
+
+3.Why is model evaluation crucial in the machine learning workflow?
+
+
+I.Model evaluation provides a way to quickly complete the machine learning project.
+
+
+II.Model evaluation measures the performance of the model and ensures its effectiveness on new, unseen data.
+
+
+III.Model evaluation is unnecessary as machine learning models always perform perfectly.
+
+ANS:II
+
+
+				What is Machine Learning
+
+
+
+1.What is the primary goal of machine learning?
+
+
+
+I.The primary goal of machine learning is to enable computers to learn from data and improve their performance on specific tasks over time.
+
+
+II.The primary goal of machine learning is to replace human decision-making entirely.
+
+
+III.The primary goal of machine learning is to create machines that can perform only a single task.
+
+ANS:I
+
+2.What is the difference between supervised and unsupervised learning?
+
+
+I.Supervised learning only uses unlabeled data and does not require any correct answers during training.
+
+
+II.Supervised learning and unsupervised learning are interchangeable terms with no distinct differences.
+
+
+III.Supervised learning involves training models on labeled data, where the correct answers are provided, and the model learns to map input data to output labels.
+
+
+IV.Unsupervised learning analyzes unlabeled data to discover patterns or relationships without explicit output labels.
+
+ANS:III and IV
+
+3.Select two examples of applications for machine learning in real-world scenarios.
+
+
+I.Machine learning is exclusively used in robotics
+
+
+II.Machine learning is applied in healthcare for disease prediction and diagnosis, using patient data to identify potential health issues.
+
+
+III.In marketing, machine learning is utilized for customer segmentation, allowing businesses to target specific groups with personalized advertisements.
+
+
+IV.Machine learning is only used in theoretical research and does not have practical applications in real-world scenarios.
+
+ANS:II and III
+
+			AI vs. Machine Learning: How Do They Differ
+
+1.Artificial Intelligence is _____
+
+
+I.a branch of computer science that constitutes underlying technology that enables computers to simulate human intelligence
+
+
+II.a branch of computer algorithms that facilitates an expert machine to make accurate predictions
+
+
+III.is a branch of computer science constituting underlying technology that governs expert machines
+
+ANS:I
+
+2.Which of the following statements about machine learning is TRUE?
+
+
+I.Machine learning is the intelligence technology developed for expert machines to facilitate the learning processes of various tasks
+
+
+II.Machine learning is the intelligence technology that provides computers with advanced abilities to execute processes without being specifically programmed to do so
+
+
+III.Machine learning and Artificial intelligence are synonymous
+
+
+IV.Machine learning is the intelligent technology an expert system uses to make accurate predictions
+
+ANS:II
+
+
+3.True or False: The late 1980s marked a resurgence in the development of artificial intelligence (AI), driven by advancements in areas like chess and computer vision.
+
+
+I.False
+
+
+II.True
+
+ANS:II
