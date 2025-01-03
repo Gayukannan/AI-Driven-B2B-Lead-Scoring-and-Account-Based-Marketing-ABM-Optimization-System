@@ -169,3 +169,318 @@ I.False
 II.True
 
 ANS:II
+
+KNOWLEDGE TEST
+1.Customer Segmentation for Marketing Strategy
+
+Given a dataset containing customer demographics and purchase history, how can we group customers based on their similarities to tailor marketing strategies?
+
+
+Unsupervised Learning
+
+
+Supervised Learning
+
+ANS: Unsupervised Learning
+
+2.Anomaly Detection in Network Traffic
+
+How can we identify unusual patterns or anomalies in network traffic that may indicate a security breach, without having prior labeled examples of such incidents?
+
+
+Unsupervised Learning
+
+
+Supervised Learning
+
+
+Both options are possible
+
+ANS: Unsupervised Learning
+
+3.Predicting Housing Prices based on Features
+
+Given historical data on housing prices and features such as location, size, and amenities, can we build a model to predict the prices of new houses?
+
+
+Both options are possible
+
+
+Supervised Learning
+
+
+Unsupervised Learning
+
+ANS:Supervised Learning
+
+4.Predicting Customer Satisfaction for an E-commerce Website
+
+Given customer feedback data on an e-commerce website where customers can rate their satisfaction on a scale from 1 to 5, should we model this problem as a classification or a regression task?
+
+
+Regression problem
+
+
+Both options are possible
+
+
+Classification problem
+
+ANS:Both options are possible
+
+5.You are a healthcare researcher aiming to identify potential subgroups of patients based on their medical records to personalize treatment plans. How could unsupervised learning be utilized to uncover distinct patient clusters with similar medical profiles, allowing for more targeted and effective healthcare interventions?
+
+
+Unsupervised learning is not applicable in this scenario, and supervised learning should be used instead.
+
+
+Unsupervised learning can segment patients into clusters based on their medical records, revealing distinct subgroups without using any predefined labels.
+
+
+Unsupervised learning can classify patients into predefined categories based on their medical records.
+
+
+Unsupervised learning can only be used if the dataset contains labeled patient groups.
+
+ANS:Unsupervised learning can segment patients into clusters based on their medical records, revealing distinct subgroups without using any predefined labels.
+
+6.
+You are an e-commerce manager and want to predict whether customers are likely to make a purchase during their website visit. How can supervised learning be applied to develop a predictive model that helps classify customers into 'potential buyers' and 'non-buyers' based on historical data and labeled purchase information?
+
+
+Supervised learning is not suitable for this scenario, and unsupervised learning should be used instead.
+
+
+Supervised learning requires an unsupervised learning pre-processing step to classify customers effectively.
+
+
+Supervised learning can be employed to classify customers into groups based on their purchase history and other features, allowing for targeted marketing strategies.
+
+
+Supervised learning can only be used if the purchase data is anonymized and doesn't contain labels.
+
+ANS: Supervised learning can be employed to classify customers into groups based on their purchase history and other features, allowing for targeted marketing strategies.
+
+				HYPOTHESIS SPACE
+1.True or False: A larger hypothesis space always leads to better model performance.
+
+
+True
+
+
+False
+
+ANS:False
+
+2.True or False: Overfitting occurs when the hypothesis space is too complex for the given data.
+
+
+False
+
+
+True
+ANS:True
+
+3.Scenario Question
+
+You are a data scientist working on a binary classification problem. You have tried two different models for the task. Model A uses a simple hypothesis space with a linear model, while Model B employs a more complex hypothesis space with a high-degree polynomial. After evaluating both models, you notice that Model B fits the training data almost perfectly, but its performance on new, unseen data is not as good. On the other hand, Model A generalizes better to unseen data.
+
+Based on this scenario, which model is likely suffering from overfitting?
+
+
+Model A, because it uses a linear hypothesis space.
+
+
+Neither model is suffering from overfitting.
+
+
+Both models are suffering from overfitting.
+
+
+Model B, because it fits the training data almost perfectly.
+
+ANS:Model B, because it fits the training data almost perfectly
+
+			What is Hypothesis in Machine Learning
+1.What does the hypothesis (h (x)) represent in machine learning?
+
+Activity description...
+
+
+The target variable to be predicted.
+
+
+The features of the dataset.
+
+
+The ground truth or actual output of the training data.
+
+
+The predicted output based on the input features and model parameters.
+
+Ans:The predicted output based on the input features and model parameters.
+
+
+				Types of Unsupervised Learning
+1.True or False: Clustering is a common task in unsupervised learning, where data points are grouped together based on similarity
+
+
+False
+
+
+True
+
+Ans:True
+
+2.Imagine you work for an e-commerce company. The company has a large database of customer transactions, and your task is to segment customers into different groups for targeted marketing. Which unsupervised learning technique would you use?
+
+
+For customer segmentation in e-commerce, you can use clustering algorithms like K-means or hierarchical clustering.
+
+
+For customer segmentation in e-commerce, you can use a dimensional reduction algorithms like PCA.
+
+ANS:For customer segmentation in e-commerce, you can use clustering algorithms like K-means or hierarchical clustering.
+
+3.You are a financial analyst at a bank and need to detect potentially fraudulent transactions in a credit card dataset. How could unsupervised learning be applied to identify unusual transaction patterns indicative of fraud?
+
+
+Unsupervised learning can be applied to detect fraudulent transactions by training a supervised machine learning model on a labeled dataset of fraudulent and non-fraudulent transactions.
+
+
+Unsupervised learning can be applied to detect fraudulent transactions by clustering normal and abnormal transaction patterns or using outlier detection methods to identify unusual transaction behavior.
+
+
+Unsupervised learning can NOT be applied to detect fraudulent transactions.
+
+Ans:Unsupervised learning can be applied to detect fraudulent transactions by clustering normal and abnormal transaction patterns or using outlier detection methods to identify unusual transaction behavior.
+
+				How much data is needed for machine learning?
+1.True or False: Having a large dataset guarantees high data quality
+
+
+False
+
+
+True
+
+Ans:False
+2.True or False: Data quality is a subjective term and does not have a universally agreed-upon definition
+
+
+True
+
+
+False
+
+Ans:False
+
+3.Scenario Question
+
+You are working on a project to predict student performance based on various factors such as study hours, attendance, and extracurricular activities. The dataset you have includes information about these features for each student.
+
+In this scenario, what would be an example of a high-quality dataset ?
+
+A. A dataset with accurate and up-to-date information about study hours, attendance, and extracurricular activities for a diverse set of students.
+
+B. A dataset with study hours as the only feature for a small subset of students.
+
+C. A dataset with random and inconsistent entries for study hours, attendance, and extracurricular activities.
+
+D. A dataset with missing values for most of the entries related to study hours, attendance, and extracurricular activities.
+
+Please select the most appropriate option and provide reasoning for your choice.
+
+
+D
+
+
+A
+
+
+C
+
+
+B
+
+Ans:A
+
+				Real case of study
+1.True/False: The primary goal of the case study is to understand the practical aspects of applying machine learning techniques to predict and mitigate customer churn.
+
+
+False
+
+
+True
+Ans:False
+
+2.True/False: The dataset for this case study includes customer demographics, usage patterns, contract details, and customer service interactions.
+
+
+True
+
+
+False
+
+Ans:True
+
+	What data features are important for machine learning projects or applications?
+
+1.True or False:Incorporating irrelevant features in a machine learning model can improve its predictive performance
+
+
+True
+
+
+False
+
+Ans:False
+2.True or False: Feature selection in machine learning helps in reducing the dimensionality of the dataset.
+
+
+True
+
+
+False
+
+Ans:True
+3.Scenario Question
+
+You are tasked with developing a spam email filter using machine learning. The dataset you have contains email samples labeled as "spam" or "not spam." Which features would you consider important for this classification task?
+
+A. Sender's Email Address B. Word Frequency in the Email C. Font Style and Size D. Number of Links in the Email E. Email Attachment Size
+
+Select the correct options:
+
+
+A, C, E
+
+
+B, D, A
+
+
+B, D, E
+
+
+A, D, E
+
+Ans:B,D,E
+
+4.
+Scenario Question
+
+You are working on a machine learning project to predict customer churn for a subscription-based service. The dataset you have includes customer information such as age, usage patterns, subscription type, and a unique customer ID for each record.
+
+Why would using the customer ID as a feature for predicting churn be ineffective?
+
+
+Using the customer ID as a feature may raise privacy concerns and ethical considerations, as it directly identifies individuals.
+
+
+The customer ID is not related to the underlying reasons for churn and including it may introduce noise into the predictive model.
+
+
+The customer ID is a unique identifier and does not contain predictive information regarding the likelihood of churn.
+
+Ans:The customer ID is a unique identifier and does not contain predictive information regarding the likelihood of churn.
